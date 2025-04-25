@@ -24,3 +24,5 @@
 (define-constant ERR-INVALID-STUDY-HOURS (err u403))
 (define-constant ERR-INVALID-OBJECTIVE (err u404))
 (define-constant ERR-INVALID-COURSES (err u405))
+
+;; Creates a new academic profile for a student
